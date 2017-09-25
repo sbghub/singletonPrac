@@ -1,0 +1,2 @@
+# singletonPrac
+simple JS singleton
